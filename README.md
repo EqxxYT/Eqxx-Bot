@@ -1,0 +1,2 @@
+# Eqxx-Bot
+BOT PRIBADI
